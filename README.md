@@ -1,5 +1,9 @@
 # Papers
 
+Dunn, J. (2020). "Mapping Languages: The Corpus of Global Language Use." Language Resources and Evaluation.
+
+Dunn, J. and Adams, B. (2020). "Geographically-Balanced Gigaword Corpora for 50 Language Varieties.” Proceedings of LREC 2020.
+
 Dunn, J. (2019). “Global Syntactic Variation in Seven Languages: Towards a Computational Dialectology.” Frontiers in Artificial Intelligence. doi: 10.3389/frai.2019.00015.
 
 Dunn, J. and Adams, B. (2019). “Mapping Languages and Demographics with Georeferenced Corpora.” In Proceedings of Geocomputation 19.
